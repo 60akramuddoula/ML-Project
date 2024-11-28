@@ -1,6 +1,6 @@
-# ML-Project
 
-# Machine Learning Projects
+
+# End to End Machine Learning Projects with FastApi 
 
 # Sports Celebrity Image Classification
 This project involves applying machine learning algorithms to classify images of sports celebrities. Given an image, the model predicts the name of the celebrity by analyzing visual features from the picture. The project includes steps like data cleaning, feature engineering, model training, and hyperparameter tuning to achieve high classification accuracy. A FastAPI server is used to serve the model for real-time image predictions.
